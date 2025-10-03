@@ -1,0 +1,10 @@
+Flask==3.0.3
+tensorflow==2.15.0
+numpy==1.25.2
+gunicorn==21.2.0
+keras==3.10.0
+numpy>=1.23.5,<1.27
+pandas
+matplotlib
+scikit-learn
+h5py
